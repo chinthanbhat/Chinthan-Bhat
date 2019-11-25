@@ -4,7 +4,7 @@ title: My Jekyll Demo Site
 email: chinthanbhat@gmail.com
 description: > 
   My site for demonstrating how to build a Jekyll website hosted on GitHub Pages, built for a Programming Historian lesson.
-baseurl: "/chinthanbhat" # the subpath of your site, e.g. /blog
+baseurl: "/Chinthan-Bhat" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  chinthanbhat
 
