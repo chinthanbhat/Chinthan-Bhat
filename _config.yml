@@ -4,7 +4,7 @@ title: Chinthan Bhat
 email: chinthanbhat@gmail.com
 description: > 
   My test site.
-baseurl: "/chinthanbhat" # the subpath of your site, e.g. /blog
+baseurl: "/Chinthan-Bhat" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  chinthanbhat
 
